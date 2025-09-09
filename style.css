@@ -1,0 +1,17 @@
+html{
+    background-color: red;
+}
+
+#contenido{
+    display: none;
+}
+
+header{
+    border: white 2px solid;
+    background-color: white ;
+}
+
+header h1{
+text-align: center;
+color: red;
+}
